@@ -7,3 +7,4 @@ __pycache__/
 
 # folder
 data/
+log/
